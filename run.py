@@ -1,5 +1,5 @@
-from my_module.my_functions import my_f1, my_f2
+from app.code import print_logs
 
 
-my_f1()
-my_f2()
+
+print_logs()
